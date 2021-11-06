@@ -1,0 +1,10 @@
+.screen2B
+{
+background-image: url("screen2.jpg");
+background-position: center;
+background-size:cover;
+}
+#Qlabel
+{
+    color: white;
+}
